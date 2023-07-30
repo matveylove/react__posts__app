@@ -1,0 +1,12 @@
+.myBtn {
+  padding: 5px 15px;
+  color: #222222;
+  font-size: 14px;
+  background-color: transparent;
+  border: 1px solid #222222;
+  cursor: pointer;
+}
+.myBtn:hover {
+  transform: scale(1.06);
+  transition: all 0.3s ease-in-out;
+}
